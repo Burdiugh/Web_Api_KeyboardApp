@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "BwohTN5dgSt+drE0x5itX+farlhnkwXaOxDLD6qi9W0=",
+  "Source": "WebAPI_ASP",
+  "BasePath": "_content/WebAPI_ASP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI_ASP\\wwwroot",
+      "Source": "WebAPI_ASP",
+      "ContentRoot": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\wwwroot\\",
+      "BasePath": "_content/WebAPI_ASP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\wwwroot\\images\\2d564978-eac7-4f88-88c4-822b465d8aed.jfif",
+      "SourceId": "WebAPI_ASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\wwwroot\\",
+      "BasePath": "_content/WebAPI_ASP",
+      "RelativePath": "images/2d564978-eac7-4f88-88c4-822b465d8aed.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2d564978-eac7-4f88-88c4-822b465d8aed.jfif"
+    },
+    {
+      "Identity": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\wwwroot\\images\\f2845f96-1ad3-4aed-9896-ce6df1accd9b.jfif",
+      "SourceId": "WebAPI_ASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\wwwroot\\",
+      "BasePath": "_content/WebAPI_ASP",
+      "RelativePath": "images/f2845f96-1ad3-4aed-9896-ce6df1accd9b.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f2845f96-1ad3-4aed-9896-ce6df1accd9b.jfif"
+    }
+  ]
+}

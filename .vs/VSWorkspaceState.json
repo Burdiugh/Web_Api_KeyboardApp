@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessLogicService",
+    "\\BusinessLogicService\\Validators",
+    "\\WebAPI_ASP"
+  ],
+  "SelectedNode": "\\BusinessLogicService\\Validators\\LoginDTOValidation.cs",
+  "PreviewInSolutionExplorer": false
+}

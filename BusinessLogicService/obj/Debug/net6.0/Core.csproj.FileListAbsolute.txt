@@ -1,0 +1,42 @@
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.ErrorMessages.resources
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.GenerateResource.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.deps.json
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\refint\Core.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.deps.json
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.pdb
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.ErrorMessages.resources
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.GenerateResource.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.pdb
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\ref\Core.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.deps.json
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Core.pdb
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.ErrorMessages.resources
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.GenerateResource.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\refint\Core.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\Core.pdb
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\ref\Core.dll

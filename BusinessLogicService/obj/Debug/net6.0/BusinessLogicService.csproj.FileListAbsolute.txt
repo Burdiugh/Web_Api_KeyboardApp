@@ -1,0 +1,17 @@
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\BusinessLogicService.deps.json
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\BusinessLogicService.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\BusinessLogicService.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Data.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\bin\Debug\net6.0\Data.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.csproj.AssemblyReference.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.AssemblyInfoInputs.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.AssemblyInfo.cs
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.csproj.CoreCompileInputs.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.csproj.CopyComplete
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\refint\BusinessLogicService.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\ref\BusinessLogicService.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.ErrorMessages.resources
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\BusinessLogicService\obj\Debug\net6.0\BusinessLogicService.csproj.GenerateResource.cache

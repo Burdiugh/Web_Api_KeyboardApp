@@ -1,0 +1,271 @@
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\appsettings.json
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.exe
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.deps.json
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.runtimeconfig.json
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.AssemblyReference.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.AssemblyInfoInputs.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.AssemblyInfo.cs
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.CoreCompileInputs.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\scopedcss\bundle\WebAPI_ASP.styles.css
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.CopyComplete
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\refint\WebAPI_ASP.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.genruntimeconfig.cache
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\ref\WebAPI_ASP.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Core.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Core.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC10\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\refint\WebAPI_ASP.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.pdb
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\appsettings.json
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.exe
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.deps.json
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.runtimeconfig.json
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.pdb
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Core.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Core.pdb
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.AssemblyReference.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.AssemblyInfoInputs.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.AssemblyInfo.cs
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.CoreCompileInputs.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\scopedcss\bundle\WebAPI_ASP.styles.css
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.CopyComplete
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.genruntimeconfig.cache
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\ref\WebAPI_ASP.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.staticwebassets.runtime.json
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Office.Client.Policy.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.ProjectServer.Client.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Search.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Burdiugh\source\repos\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\StarkbankEcdsa.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\appsettings.Development.json
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\appsettings.json
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.staticwebassets.runtime.json
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.exe
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.deps.json
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.runtimeconfig.json
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\WebAPI_ASP.pdb
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\AutoMapper.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Castle.Core.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Humanizer.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Office.Client.Policy.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Office.Client.TranslationServices.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Office.SharePoint.Tools.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.ProjectServer.Client.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Publishing.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Runtime.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Search.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.SharePoint.Client.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\SendGrid.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\StarkbankEcdsa.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Core.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Infrastructure.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Core.pdb
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\bin\Debug\net6.0\Infrastructure.pdb
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.AssemblyReference.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.AssemblyInfoInputs.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.AssemblyInfo.cs
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.CoreCompileInputs.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.MvcApplicationPartsAssemblyInfo.cs
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\staticwebassets.build.json
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\staticwebassets.development.json
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\scopedcss\bundle\WebAPI_ASP.styles.css
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.csproj.CopyComplete
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\refint\WebAPI_ASP.dll
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.pdb
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\WebAPI_ASP.genruntimeconfig.cache
+D:\Education\Angular\Angular Projects\Angular-keyboard\WEB_API_KeyBoard\WebAPI_ASP\obj\Debug\net6.0\ref\WebAPI_ASP.dll
