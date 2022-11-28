@@ -32,7 +32,7 @@ namespace Core
         public async Task<IEnumerable<AppUserDTO>> GetAllAsync()
         {
             // to do roles
-            var users  = _mapper.Map<IEnumerable<AppUserDTO>>(await _userRepository.GetAllAsync());
+            var users  = _mapper.Map<IEnumerable<AppUserDTO>>(await _userRepository.GetAllAsync("Scores"));
 
             var roles = new List<string>();
             foreach (var user in users)
@@ -95,15 +95,15 @@ namespace Core
             await _userRepository.SaveChanges();
         }
 
-        public async Task  AddScore(ScoreDTO score)
-        {
-            var user = await _userRepository.GetByIdAsync(score.AppUserId);
+        //public async Task  AddScore(ScoreDTO score)
+        //{
+        //    var user = await _userRepository.GetByIdAsync(score.AppUserId);
 
-            if (user == null) throw new HttpException(HttpStatusCode.NotFound, ErrorMessages.NotFound);
+        //    if (user == null) throw new HttpException(HttpStatusCode.NotFound, ErrorMessages.NotFound);
 
-            user.Scores.Add(_mapper.Map<AppScore>(score));
-            await _userRepository.SaveChanges();
-        }
+        //    user.Scores.Add(_mapper.Map<AppScore>(score));
+        //    await _userRepository.SaveChanges();
+        //}
 
     }
 }

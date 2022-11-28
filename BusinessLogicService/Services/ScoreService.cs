@@ -44,7 +44,7 @@ namespace Core.Services
         {
             var score = await _scoreRepository.GetByIdAsync(id);
 
-            var score2 = score.Score;
+            //var score2 = score.Score;
 
             if (score == null) throw new HttpException(HttpStatusCode.NotFound, ErrorMessages.NotFound);
 
@@ -57,8 +57,7 @@ namespace Core.Services
 
             if (user==null){ throw new HttpException(HttpStatusCode.NotFound, ErrorMessages.NotFound); }
 
-            _userService.AddScore(score);
-
+            
             await _scoreRepository.InsertAsync(_mapper.Map<AppScore>(score));
             await _scoreRepository.SaveChanges();
         }

@@ -12,7 +12,7 @@ namespace Core.Entities
     {
         public ICollection<IdentityRole> Roles { get; set; }
 
-        public ICollection<AppScore> Scores { get; set; }
+        public ICollection<AppScore> Scores { get; set; } = new HashSet<AppScore>();
 
         public string? ImagePath { get; set; }
 

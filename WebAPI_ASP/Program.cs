@@ -18,15 +18,19 @@ using Microsoft.Extensions.Configuration;
 using Castle.Core.Smtp;
 using Core.Services;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(x =>
+                x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 
 
-builder.Services.AddSqlDbContext(builder.Configuration.GetConnectionString("AppKeyboardDbConnection"));
+
+builder.Services.AddSqlDbContext(builder.Configuration.GetConnectionString("AzureDbConnection"));
 //AppKeyboardDbConnection
 //AzureDbConnection
 

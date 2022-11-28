@@ -17,6 +17,6 @@ namespace Core.Interfaces
         Task DeleteByIdAsync(string id);
         Task UpdateAsync(AppUserDTO entity);
         Task InsertAsync(AppUserDTO entity);
-        Task AddScore(ScoreDTO score);
+       // Task AddScore(ScoreDTO score);
     }
 }
