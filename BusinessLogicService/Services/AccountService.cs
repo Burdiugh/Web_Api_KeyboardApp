@@ -186,7 +186,7 @@ namespace Core
             // send token
             // TODO: use separate email service
 
-            string actionResetPasswordUrl = @$"http://localhost:4200/account/app-reset-password";
+            string actionResetPasswordUrl = @$"https://keyboard-server-3.azurewebsites.net/api/account/app-reset-password";
 
             SmtpClient smtpClient = new SmtpClient("smtp.gmail.com", 587);
             smtpClient.Credentials = new NetworkCredential("prodoq@gmail.com", "bnicxhamzbjbctto");
