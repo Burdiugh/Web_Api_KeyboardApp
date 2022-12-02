@@ -17,6 +17,13 @@ namespace WebAPI_ASP.Controllers
 
 
         [HttpGet]
+        public async Task<IActionResult> GetScores()
+        {
+            return Ok(await _scoreService.GetAllAsync());
+        }
+
+
+        [HttpGet]
         [Route("{id}")]
         public async Task<IActionResult> GetScoreById([FromRoute] int id)
         {
@@ -27,9 +34,9 @@ namespace WebAPI_ASP.Controllers
         [Route("{id}")]
         public async Task<IActionResult> DeleteById([FromRoute] int id)
         {
-           await _scoreService.DeleteByIdAsync(id);  
+            await _scoreService.DeleteByIdAsync(id);
 
-            return Ok($"Score with id \"{id}\" was successffuly Deleted!");
+            return Ok();
         }
 
         [HttpPost]
@@ -39,8 +46,14 @@ namespace WebAPI_ASP.Controllers
 
             await _scoreService.InsertScoreAsync(score);
 
-            return Ok($"Score was successffuly added!");
+            return Ok();
 
+        }
+
+        [HttpGet("byUserId/{id}")]
+        public async Task<IActionResult> GetAllByUserId([FromRoute] string id)
+        {
+            return Ok(await _scoreService.GetAllByUserId(id));
         }
 
 

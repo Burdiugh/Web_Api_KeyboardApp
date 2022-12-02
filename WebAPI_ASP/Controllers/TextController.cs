@@ -39,17 +39,17 @@ namespace WebAPI_ASP.Controllers
         {
             await _textService.DeleteTextByIdAsync(id);
 
-            return Ok($"Text with id \"{id}\" was successffuly Deleted!");
+            return Ok();
         }
 
-        [HttpPost("insert")]
+        [HttpPost]
         [Authorize(Roles = "admin", AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         public async Task<IActionResult> Insert([FromBody] AppTextDTO text)
         {
 
             await _textService.InsertTextAsync(text);
 
-            return Ok($"Text was successffuly added!");
+            return Ok();
         }
 
         [HttpPut]
@@ -59,7 +59,7 @@ namespace WebAPI_ASP.Controllers
 
             await _textService.UpdateTextAsync(text);
 
-            return Ok($"Text with id #{text.Id} / Level: {text.LevelName} / Language: {text.LanguageName} was successffuly Updated!");
+            return Ok();
         }
 
     }

@@ -11,8 +11,8 @@ namespace Core.DTOs
         public int Id { get; set; }
         public string Text { get; set; }
         public int LevelId { get; set; }
-        public string LevelName { get; set; }
+        public string ?LevelName { get; set; }
         public int LanguageId { get; set; }
-        public string LanguageName { get; set; }
+        public string ?LanguageName { get; set; }
     }
 }

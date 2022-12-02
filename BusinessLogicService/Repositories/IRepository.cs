@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ardalis.Specification;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,5 +15,11 @@ namespace Core.Repositories
         Task UpdateAsync(TEntity entity);
         Task InsertAsync(TEntity entity);
         Task SaveChanges();
+
+        IEnumerable<TEntity> GetListBySpec(ISpecification<TEntity> specification);
+
+        TEntity? GetFirstBySpec(ISpecification<TEntity> specification);
+
+        
     }
 }

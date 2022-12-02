@@ -1,4 +1,6 @@
-﻿using Core.Repositories;
+﻿using Ardalis.Specification;
+using Ardalis.Specification.EntityFrameworkCore;
+using Core.Repositories;
 using Data.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -61,6 +63,22 @@ namespace Core.Repositories
             await dbSet.AddAsync(entity);
         }
 
-        
+        public IEnumerable<TEntity> GetListBySpec(ISpecification<TEntity> specification)
+        {
+            return ApplySpecification(specification).ToList();
+        }
+
+        public TEntity? GetFirstBySpec(ISpecification<TEntity> specification)
+        {
+            return ApplySpecification(specification).FirstOrDefault();
+        }
+
+        private IQueryable<TEntity> ApplySpecification(ISpecification<TEntity> specification)
+        {
+            var evaluator = new SpecificationEvaluator();
+            return evaluator.GetQuery(dbSet, specification);
+        }
+
+     
     }
 }

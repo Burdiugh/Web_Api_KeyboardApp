@@ -14,13 +14,9 @@ namespace Core.Helpers
             CreateMap<IdentityRole, string>().ConvertUsing(r=>r.Name);
 
             CreateMap<AppUser, AppUserDTO>()
-                //.ForMember(dest => dest.Scores,
-                //opt=>opt.MapFrom(src => src.Scores))
                 .ReverseMap();
 
             CreateMap<AppScore, ScoreDTO>()
-               //.ForMember(dest => dest.Scores,
-               //opt=>opt.MapFrom(src => src.Scores))
                .ReverseMap();
 
             CreateMap<AppText, AppTextDTO>()
@@ -29,6 +25,7 @@ namespace Core.Helpers
                .ForMember(dest => dest.LanguageName,
                            opt => opt.MapFrom(src => src.Language.Name));
 
+            CreateMap<AppTextDTO, AppText>();
            
 
 

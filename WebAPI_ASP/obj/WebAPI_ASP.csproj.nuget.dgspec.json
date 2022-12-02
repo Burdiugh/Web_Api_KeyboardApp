@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\WebAPI_ASP.csproj": {}
+    "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\WebAPI_ASP\\WebAPI_ASP.csproj": {}
   },
   "projects": {
-    "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\BusinessLogicService\\Core.csproj": {
+    "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\BusinessLogicService\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\BusinessLogicService\\Core.csproj",
+        "projectUniqueName": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\BusinessLogicService\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\BusinessLogicService\\Core.csproj",
-        "packagesPath": "C:\\Users\\Burdiugh\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\BusinessLogicService\\obj\\",
+        "projectPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\BusinessLogicService\\Core.csproj",
+        "packagesPath": "C:\\Users\\burdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\BusinessLogicService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Burdiugh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\burdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net6.0": {
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
@@ -92,8 +96,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -102,24 +105,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\Data\\Infrastructure.csproj": {
+    "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\Data\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\Data\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\Data\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\Data\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Burdiugh\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\Data\\obj\\",
+        "projectPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\Data\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\burdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Burdiugh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\burdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -128,15 +131,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\BusinessLogicService\\Core.csproj": {
-                "projectPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\BusinessLogicService\\Core.csproj"
+              "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\BusinessLogicService\\Core.csproj": {
+                "projectPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\BusinessLogicService\\Core.csproj"
               }
             }
           }
@@ -151,6 +154,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.2.2, )"
@@ -182,8 +193,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -192,24 +202,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\WebAPI_ASP.csproj": {
+    "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\WebAPI_ASP\\WebAPI_ASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\WebAPI_ASP.csproj",
+        "projectUniqueName": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\WebAPI_ASP\\WebAPI_ASP.csproj",
         "projectName": "WebAPI_ASP",
-        "projectPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\WebAPI_ASP.csproj",
-        "packagesPath": "C:\\Users\\Burdiugh\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\WebAPI_ASP\\obj\\",
+        "projectPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\WebAPI_ASP\\WebAPI_ASP.csproj",
+        "packagesPath": "C:\\Users\\burdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\WebAPI_ASP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Burdiugh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\burdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -218,18 +228,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\BusinessLogicService\\Core.csproj": {
-                "projectPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\BusinessLogicService\\Core.csproj"
+              "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\BusinessLogicService\\Core.csproj": {
+                "projectPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\BusinessLogicService\\Core.csproj"
               },
-              "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\Data\\Infrastructure.csproj": {
-                "projectPath": "D:\\Education\\Angular\\Angular Projects\\Angular-keyboard\\WEB_API_KeyBoard\\Data\\Infrastructure.csproj"
+              "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\Data\\Infrastructure.csproj": {
+                "projectPath": "C:\\Education\\Angular\\Angular Projects\\Angular-keyboard-app-main\\WEB_API_SERVER\\Web_Api_KeyboardApp\\Data\\Infrastructure.csproj"
               }
             }
           }
@@ -291,8 +301,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -304,7 +313,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

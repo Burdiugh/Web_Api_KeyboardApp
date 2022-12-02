@@ -10,6 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 using AutoMapper;
+using Core.Entities.Specifications;
 
 namespace Core.Services
 {
@@ -40,6 +41,11 @@ namespace Core.Services
             await _scoreRepository.SaveChanges();
         }
 
+        public async Task<IEnumerable<ScoreDTO>> GetAllAsync()
+        {
+            return _mapper.Map<IEnumerable<ScoreDTO>>(await _scoreRepository.GetAllAsync());
+        }
+
         public async Task<ScoreDTO> GetScoreByIdAsync(int id)
         {
             var score = await _scoreRepository.GetByIdAsync(id);
@@ -61,5 +67,13 @@ namespace Core.Services
             await _scoreRepository.InsertAsync(_mapper.Map<AppScore>(score));
             await _scoreRepository.SaveChanges();
         }
+
+        public async Task<IEnumerable<ScoreDTO>> GetAllByUserId(string id)
+        {
+            var result = _scoreRepository.GetListBySpec(new Scores.ByUserId(id));
+            return _mapper.Map<IEnumerable<ScoreDTO>>(result);
+        }
+
+
     }
 }

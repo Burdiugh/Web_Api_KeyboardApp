@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7cc9002-25e4-4573-a32c-f20d8689b81a": {
+      "ProjectGuid": "d7cc9002-25e4-4573-a32c-f20d8689b81a",
+      "DisplayName": "Core",
+      "ColorIndex": 0
+    },
+    "be22e173-09b4-4a25-8f40-b7d3efa649bb": {
+      "ProjectGuid": "be22e173-09b4-4a25-8f40-b7d3efa649bb",
+      "DisplayName": "WebAPI_ASP",
+      "ColorIndex": 1
+    },
+    "81164ee6-c4a8-437d-a74f-72ba947e2801": {
+      "ProjectGuid": "81164ee6-c4a8-437d-a74f-72ba947e2801",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
